@@ -1,8 +1,17 @@
-Task 2\
+Task 3
 
-Zomato 
-I  found zomato as a really great initiative to find the good places to dine and hangout but they should add some features more in it according to my suggestions:
+Some important confedential information is going to be shared between two parties. And if the information is disclosed then the parties will face loss in competition and it will result in loss of revenue and financial damage as well.
 
-1. The chat system can be there so that the person who wants to check in at any restaurant can ask to the respective host. 
-2. Everytime when we have to upload pictures we need to login so I think that is not required, simply just to the link of any restaurant and if you got some pictures of food and the ambience then directly upload them. And one more thing that the zomato should analyse the location of the candidate who is there in some restaurant, because sometimes people make fake reviews. So a feature should be there to track the location who is reviewing. 
-3. If some place is noy on zomato and you want it to add it on the site then there should be a feature given where you can let others to recommend to add on the list of restaurants
+So some terms and conditions should be followed:
+
+1. The services requested by the client should be given to the client by the subcontractor. The materials requested by the subcontractor should be given to them by the client.
+2. Initial terms of agreement is 12 months of the execution.
+3. Either party can terminate the agreement Agreement by giving 2 weeks written notice to the other party at any time during the Initial Term or the Extended Term of the Agreement.
+4.  Subcontractor’s employees are not eligible for and may not participate in, any employee benefits extended to SDG employees, including without
+limitation vacation pay, holiday pay or paid sick leave. 
+5. Paying to the candidated will be on the work per hour. 
+6. Subcontractor further agrees that it will require any of its employees assigned to Client to sign a non-competition agreement in which such employees agree not to be employed by or provide services for, directly or indirectly, Client for a period of twelve (12) months following
+termination of their employment with Subcontractor. SunPlus and its clients also agree that it will not solicit any employees of the Subcontractor for the term of this agreement and a period of 12 months after that.
+7. Failure by either party at any time to require performance by the other party or to claim a breach of any provision of this Agreement shall not be construed as a waiver of any subsequent breach nor affect the effectiveness of the Agreement or any part thereof, nor prejudice either party as regards any subsequent action.
+8. The parties specifically agree that no persons, other than the parties hereto, have any interest in this Agreement and specifically agree that no persons shall be considered as or intended to be third party beneficiaries or shall be entitled to rely upon the provisions of this Agreement for any purpose. 
+
