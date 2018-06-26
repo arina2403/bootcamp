@@ -1,0 +1,8 @@
+Task 2\
+
+Zomato 
+I  found zomato as a really great initiative to find the good places to dine and hangout but they should add some features more in it according to my suggestions:
+
+1. The chat system can be there so that the person who wants to check in at any restaurant can ask to the respective host. 
+2. Everytime when we have to upload pictures we need to login so I think that is not required, simply just to the link of any restaurant and if you got some pictures of food and the ambience then directly upload them. And one more thing that the zomato should analyse the location of the candidate who is there in some restaurant, because sometimes people make fake reviews. So a feature should be there to track the location who is reviewing. 
+3. If some place is noy on zomato and you want it to add it on the site then there should be a feature given where you can let others to recommend to add on the list of restaurants
